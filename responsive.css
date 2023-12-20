@@ -48,7 +48,7 @@
                 height: 50vh;
                 /* display: none; */
                 position: absolute;
-                top: 130%;
+                top: 85%;
             }
             img{
                 width: 20vw;
@@ -59,7 +59,7 @@
             .box3{
                 width: 375px;
                 position: absolute;
-                top: 320%;
+                top: 220%;
                 left: 50%;
                 
             }
