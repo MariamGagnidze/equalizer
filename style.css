@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.nav-heading{
+    color:  #191826;
+    /* background-image: url(./images/Oval.png);
+    background-repeat: no-repeat; */
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+}
+
+.box-heading  h1{
+    
+    font-size: 3.2em;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+}
+.box-paragraph{
+    color:  #191826;
+    padding-bottom: 10%;
+    padding-left: 5%;
+    
+}
+.box2{
+    width: 100%;
+    height: 600px;
+    background-image: url(./images/Group\ 8.png);
+    background-repeat: no-repeat;
+    background-color: #191826;
+    margin-top: 60%;
+    border-radius: 10px;
+
+}
+
+.box2-img{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 70%;
+    position:absolute;
+    margin-top: -50%;
+}
+
+.box3{
+    background-color: #FA7453;
+    ;
+    border-radius: 10px;
+    margin-top: -60%;
+}
+
+.box3-heading{
+    size: 32px;
+    padding: 10px;
+    color: #FCFAF9;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+   
+}
+
+.box3-paragraph{
+    width: 80%;
+    padding: 10px;
+    color: #FCFAF9;
+    padding-bottom: 10%;
+    padding-left: 5%;
+}
+.price{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FCFAF9;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+button{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border: none;
+    border-radius: 5px;
+   height: 8vh;
+   width: 50vw;
+   
+}
+/* .footer-footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+} */
+.footer-heading{
+   
+    padding-left: 5%;
+}
+.footer-icons{
+    display: flex;
+    align-items: center;
+    gap: 5%;
+    padding-top:  10%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+    justify-content: space-between;
+}
+.footer{padding: 5%;
+padding-top: 20%;}
+
+.footer-paragraph{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 50%;
+   
+}
+
+.background-img{
+    display: none;
+}
